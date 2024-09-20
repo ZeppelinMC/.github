@@ -1,4 +1,5 @@
-[![i111mage-removebg-preview](https://github.com/ZeppelinMC/Zeppelin/assets/84847714/299c803e-ff30-46fb-ba56-a752e365307d)](https://github.com/ZeppelinMC/Zeppelin)
+![zeppelinbanner (1)](https://github.com/user-attachments/assets/bdd84d28-3d63-4162-bd75-3f419340960c)
+
 ## Projects
 [Zeppelin](https://github.com/ZeppelinMC/Zeppelin) - Minecraft: Java Edition 1.21 server software
 
